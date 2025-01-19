@@ -26,7 +26,7 @@ This is my solution to the [QR Code Component Challenge on Frontend Mentor](http
 
 ### Links
 
-- **Live Site URL:** [watch it live]()
+- **Live Site URL:** [watch it live](https://filostkana-qr-code.vercel.app/)
 
 ---
 

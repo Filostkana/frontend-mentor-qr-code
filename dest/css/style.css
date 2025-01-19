@@ -26,45 +26,11 @@ main {
   text-align: center;
   margin-top: 5rem;
 }
-.attribution .attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 62.5%;
-}
-
-body {
-  font-family: "Outfit", sans-serif;
-  background: hsl(212, 45%, 89%);
-}
-
-main {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-.attribution {
-  font-size: 11p;
-  text-align: center;
-  margin-top: 5rem;
-}
-
-.attribution .attribution a {
+.attribution a {
   color: hsl(228, 45%, 44%);
 }
 
 .card {
-  width: 90%;
   max-width: 32rem;
   height: -moz-fit-content;
   height: fit-content;
@@ -76,6 +42,8 @@ main {
 
 .image-box {
   width: 100%;
+  max-width: 28.8rem;
+  height: 28.8rem;
   margin: auto;
 }
 .image-box img {
@@ -88,10 +56,11 @@ main {
 .content-box {
   padding: 0 1.6rem;
   margin: 2.4rem auto 0;
+  height: 13.1rem;
 }
 .content-box__header {
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-bottom: 1.6rem;
   color: hsl(218, 44%, 22%);
 }

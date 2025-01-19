@@ -12,6 +12,8 @@
 
 .image-box {
     width: 100%;
+    max-width: 28.8rem;
+    height: 28.8rem;
     margin: auto;
     img {
         width: 100%;
@@ -23,10 +25,11 @@
 .content-box {
     padding: 0 1.6rem;
     margin: 2.4rem auto 0;
+    height: 13.1rem;
 
     &__header {
         font-weight: 700;
-        font-size: 2rem;
+        font-size: 2.2rem;
         margin-bottom: 1.6rem;
         color: $Slate-900;
     }
